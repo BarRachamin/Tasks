@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Tasks28012023\Tasks28012023\bin\Debug\Tasks28012023.exe.config
+C:\Users\User\source\repos\Tasks28012023\Tasks28012023\bin\Debug\Tasks28012023.exe
+C:\Users\User\source\repos\Tasks28012023\Tasks28012023\bin\Debug\Tasks28012023.pdb
+C:\Users\User\source\repos\Tasks28012023\Tasks28012023\obj\Debug\Tasks28012023.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tasks28012023\Tasks28012023\obj\Debug\Tasks28012023.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Tasks28012023\Tasks28012023\obj\Debug\Tasks28012023.Properties.Resources.resources
+C:\Users\User\source\repos\Tasks28012023\Tasks28012023\obj\Debug\Tasks28012023.Tasks.resources
+C:\Users\User\source\repos\Tasks28012023\Tasks28012023\obj\Debug\Tasks28012023.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tasks28012023\Tasks28012023\obj\Debug\Tasks28012023.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tasks28012023\Tasks28012023\obj\Debug\Tasks28012023.exe
+C:\Users\User\source\repos\Tasks28012023\Tasks28012023\obj\Debug\Tasks28012023.pdb
